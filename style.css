@@ -1,0 +1,62 @@
+html {
+  margin: 0;
+}
+
+span {
+  display: block;
+}
+.canvas {
+  margin: 100px auto 100px;
+  width: 80%;
+  text-align: center;
+}
+
+.button {
+  width: 100px;
+  height: 100px;
+  border: solid black 2px;
+  display: inline-block;
+  opacity: 0.8;
+}
+
+#grey {
+  background: grey;
+  opacity: 0.8;
+}
+
+#white {
+  background: white;
+  opacity: 0.8;
+}
+#blue {
+  background: blue;
+  opacity: 0.8;
+}
+#yellow {
+  background: yellow;
+  opacity: 0.8;
+}
+#purple{
+background: purple;
+opacity: 0.8;
+}
+#red {
+  background: red;
+  opacity: 0.8;
+}
+#green {
+  background: green;
+  opacity: 0.8;
+}
+#orange {
+  background: rgb(255, 102, 0);
+  opacity: 0.8;
+}
+#black {
+  background: black;
+  opacity: 0.8;
+}
+#pink {
+  background: rgb(255, 0, 43);
+  opacity: 0.8;
+}
